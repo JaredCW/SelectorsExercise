@@ -54,6 +54,7 @@ label {
 #important::first-letter{
     color: lime;
     font-size: 90px;
+    font-family: 'Snell Roundhand',cursive
 }
 
 /* BONUS 4 */
@@ -63,7 +64,7 @@ h1:hover {
 
 /* BONUS 5 */
 a:visited {
-    color: silver;
+    color: silver
 }
 
 
